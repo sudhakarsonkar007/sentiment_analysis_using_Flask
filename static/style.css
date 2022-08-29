@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table{
+    width: 50%;
+}
+
+span {
+    font-family: "Brush Script MT", cursive;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 500px;
+    }
+}
